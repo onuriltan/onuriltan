@@ -1,4 +1,4 @@
-[![Spotify](https://onuriltan.vercel.app/api/spotify)](https://open.spotify.com/user/11156826003)
+[![Spotify](https://https://onur-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/11156826003)
 
 
 <!--
