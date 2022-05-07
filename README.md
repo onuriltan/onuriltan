@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on React and Node
-- 🌱 I’m currently learning web3
+- 🌱 I’m currently learning Web3
 
 <!--
 **onuriltan/onuriltan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
