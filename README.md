@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on React and Node
+- 🔭 I’m currently working on Javascript, Typescript, React.js and Node.js
 - 🌱 I’m currently learning Web3
 
 <!--
