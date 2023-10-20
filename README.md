@@ -1,5 +1,4 @@
-- 🔭 I’m currently working on Javascript, Typescript, React.js and Node.js
-- 🌱 I’m currently learning Web3
+- 🔭 I’m currently working with Javascript, Typescript, React.js and Node.js
 
 <!--
 **onuriltan/onuriltan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
